@@ -1,0 +1,19 @@
+[
+{
+    "Name": "Microsoft Azure Sponsorship",
+    "Guid": "afb74e3f-dd3f-41ac-9111-bb99a08fc260",
+    "Price": 16.219219,
+    "OfferId": "MS-AZR-0036P",
+    "IsSponsored": true,
+    "Caid": "00000000-0000-0000-0000-000000000000",
+    "CreationDate": 0
+},
+{
+    "Name": "Microsoft Azure Sponsorship",
+    "Guid": "efa3aed8-4d0c-4e3d-8304-ee479da54635",
+    "Price": 12.943792,
+    "OfferId": "MS-AZR-0036P",
+    "IsSponsored": true,
+    "Caid": "00000000-0000-0000-0000-000000000000",
+    "CreationDate": 0
+}]

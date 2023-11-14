@@ -1,0 +1,14 @@
+{
+    "TableHeaders": ["Service Name", "Service Resource", "Spend"],
+    "TableRows": [
+        ["Cognitive Services", "GPT4-32K-Prompt Tokens", "$5.96"],
+        ["Cognitive Services", "GPT4-8K-Prompt Tokens", "$3.79"],
+        ["Cognitive Services", "GPT4-8K-Completion Tokens", "$1.18"],
+        ["Cognitive Services", "GPT4-32K-Completion Tokens", "$1.16"],
+        ["Cognitive Services", "GPT-35-turbo-16k-Prompt Tokens", "$0.37"],
+        ["Cognitive Services", "GPT-35-turbo-16k-Completion Tokens", "$0.18"],
+        ["Cognitive Services", "GPT-3.5-turbo Tokens", "$0.16"],
+        ["Cognitive Services", "Image-DALL-E Images", "$0.14"],
+        ["Cognitive Services", "Free Speech To Text", "$0.00"]
+    ]
+}

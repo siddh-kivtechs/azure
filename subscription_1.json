@@ -1,0 +1,17 @@
+{
+    "TableHeaders": ["Service Name", "Service Resource", "Spend"],
+    "TableRows": [
+        ["SQL Database", "vCore", "$13.40"],
+        ["Cognitive Services", "GPT-35-turbo-16k-Prompt Tokens", "$1.07"],
+        ["Cognitive Services", "Image-DALL-E Images", "$0.88"],
+        ["SQL Database", "General Purpose Data Stored", "$0.29"],
+        ["Cognitive Services", "GPT-35-turbo-16k-Completion Tokens", "$0.28"],
+        ["Cognitive Services", "GPT-35-turbo-4k-Prompt Tokens", "$0.15"],
+        ["Cognitive Services", "GPT-3.5-turbo Tokens", "$0.06"],
+        ["Cognitive Services", "GPT-35-turbo-4k-Completion Tokens", "$0.05"],
+        ["Azure Cosmos DB", "100 RU/s", "$0.03"],
+        ["SQL Managed Instance", "vCore", "$0.00"],
+        ["Azure App Service", "F1 App", "$0.00"],
+        ["Microsoft Defender for Cloud", "Standard Trial Node", "$0.00"]
+    ]
+}
